@@ -21,6 +21,7 @@ Para executar este projeto, você precisará ter os pacotes instalados:
   - [Java 8]
   - [BouncyCastle]
   - [JDBC]
+  - [Javax Sun Email]
   
 
 ## ⚡️ Iniciar aplicativo
