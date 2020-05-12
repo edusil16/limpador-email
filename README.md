@@ -19,6 +19,9 @@ Para executar este projeto, você precisará ter os pacotes instalados:
 ## 🚀 Tecnologias Utilizadas
 
   - [Java 8]
+  - [BouncyCastle]
+  - [JDBC]
+  
 
 ## ⚡️ Iniciar aplicativo
 
