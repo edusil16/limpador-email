@@ -7,7 +7,7 @@
 # Clonando este projeto
 
 ```
-$ git clone https://github.com/edusil16/AlgoritmosOrdenacao.git
+$ git clone https://github.com/edusil16/limpador-email.git
 ```
 
 # ❗️ Requisitos
